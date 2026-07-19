@@ -1,0 +1,10 @@
+{
+  "name": "qtxmljs-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "JavaScriptで安全にQtウィジェットを操作するフレームワーク",
+  "main": "test.js",
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
+}

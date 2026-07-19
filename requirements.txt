@@ -1,0 +1,4 @@
+PySide6>=6.0.0
+
+# execute this
+# pip install -r requirements.txt
